@@ -1,0 +1,19 @@
+{
+  "logger": {
+    "title": "Remote Sync"
+  },
+  "uploadOnSave": true,
+  "useAtomicWrites": true,
+  "deleteLocal": true,
+  "hostname": "10.162.34.55",
+  "port": "22",
+  "target": "/home/cong/Documents/Research/Learning_to_see_Forces/src",
+  "ignore": [
+    ".remote-sync.json",
+    ".git/**"
+  ],
+  "username": "cong",
+  "password": "CITB_666",
+  "watch": [],
+  "transport": "scp"
+}
