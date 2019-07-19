@@ -7,7 +7,7 @@ Pytorch implementation of surgical force prediction using da Vinci robot. **This
 ![](imgs/force_pred.gif)
 
 Learning to See Forces: Surgical Force Prediction with RGB-Point Cloud Temporal Convolutional Networks  
-[Cong Gao](http://www.cs.jhu.edu/~gaoc/), [Xingtong Liu](http://www.cs.jhu.edu/~xingtongl/), [Michael Peven](https://malonecenter.jhu.edu/people/students/#), [Austin Reiter](https://www.cs.jhu.edu/~areiter/JHU/Home.html)   
+[Cong Gao](http://www.cs.jhu.edu/~gaoc/), [Xingtong Liu](http://www.cs.jhu.edu/~xingtongl/), [Michael Peven](https://malonecenter.jhu.edu/people/students/#), [Mathias Unberath](https://mathiasunberath.github.io/), and [Austin Reiter](https://www.cs.jhu.edu/~areiter/JHU/Home.html)   
 *Computer Assisted and Robotic Endoscopy, MICCAI workshop 2018.*
 
 Obtaining haptic feedback is one of the major limitations during robot assisted surgical procedures. We propose the use of “visual cues” to infer forces from tissue deformation. Endoscopic video is a passive sensor that is freely available, in the sense that any minimally-invasive procedure already utilizes it. To this end, we employ deep learning to infer forces from video as an attractive low-cost and accurate alterna- tive to typically complex and expensive hardware solutions.
