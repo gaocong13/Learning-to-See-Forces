@@ -6,7 +6,7 @@ Pytorch implementation of surgical force prediction using da Vinci robot.
 
 ![](imgs/force_pred.gif)
 
-Learning to See Forces: Surgical Force Prediction with RGB-Point Cloud Temporal Convolutional Networks 
+Learning to See Forces: Surgical Force Prediction with RGB-Point Cloud Temporal Convolutional Networks
 [Cong Gao](http://www.cs.jhu.edu/~gaoc/), [Xingtong Liu](http://www.cs.jhu.edu/~xingtongl/), [Michael Peven](https://malonecenter.jhu.edu/people/students/#), [Austin Reiter](https://www.cs.jhu.edu/~areiter/JHU/Home.html)   
 Computer Assisted and Robotic Endoscopy, MICCAI workshop 2018.
 
