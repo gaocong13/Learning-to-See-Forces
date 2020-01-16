@@ -30,6 +30,7 @@ class vggSamplerNet(torch.nn.Module):
 
 def repeat(x, n_repeats):
 	rep = torch.ones(1,n_repeats)
+	rep = rep.long()
 	x = x.view(-1,1)
 	result = torch.matmul(x, rep)
 	result = result.view(-1,)
