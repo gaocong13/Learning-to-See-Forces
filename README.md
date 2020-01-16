@@ -34,6 +34,7 @@ python extract_vgg_feature.py
 ```
 - Train the model
 ```bash
+mkdir ../model ../result
 python trainTCN_main.py
 ```
 
